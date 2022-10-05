@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Footsteps_that_sound_like_music_beat.mp3-d79a6b5472d839665067b9d10ff8ae2d.mp3str"
+
+[deps]
+
+source_file="res://Assets/SFX/Footsteps_that_sound_like_music_beat.mp3"
+dest_files=[ "res://.import/Footsteps_that_sound_like_music_beat.mp3-d79a6b5472d839665067b9d10ff8ae2d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/main menu theme (prefect loop).mp3-9aff5ccc7b672e917cdeb7b546b13f2a.mp3str"
+
+[deps]
+
+source_file="res://Assets/Music/main menu theme (prefect loop).mp3"
+dest_files=[ "res://.import/main menu theme (prefect loop).mp3-9aff5ccc7b672e917cdeb7b546b13f2a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

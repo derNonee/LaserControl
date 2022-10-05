@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Piston.mp3-d1df22d32cda31eea08285375e597117.mp3str"
+
+[deps]
+
+source_file="res://Assets/SFX/Piston.mp3"
+dest_files=[ "res://.import/Piston.mp3-d1df22d32cda31eea08285375e597117.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
